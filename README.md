@@ -8,7 +8,7 @@ If you would like to help please feel free to join the team.
 
 Design goals:
 
-The aim is to build a system which enables the electorate to democratically suggest, review, prioritise, refine and implement ideas for themselves.
+The aim is to build a system which enables the electorate to democratically suggest, review, prioritise, refine and implement ideas for themselves. The electorate rather than politicians take full control of taxation, investment and laws.
 
 The system must help mitigate against the primary problem with our current democratic systems, namely:
 
