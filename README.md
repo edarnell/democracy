@@ -10,7 +10,7 @@ Design goals:
 
 The aim is to build a system which enables the electorate to democratically suggest, review, prioritise, refine and implement ideas for themselves. The electorate rather than politicians take full control of taxation, investment and laws.
 
-The system must help mitigate against the primary problem with our current democratic systems, namely:
+The system must help mitigate against the primary problems with our current democratic systems, namely:
 
 1) Weaknesses in human thought patterns, leading to logic errors and known cognitive biases.
 2) Un-democratic manipulation by those with power through money and marketing (generally spinning emotion based half-truths which manipulate the above).
