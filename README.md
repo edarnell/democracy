@@ -24,7 +24,7 @@ For 2) do not allow any marketing. Send ideas for review to a random sample and 
 I'll start building an initial version but feel free to help.
 
 Work in progress will be hosted at http://agilegov.uk (feel free to set up your own version elsewhere if you are not part of the UK electorate).
-It would be nice to fix democracy across the planet not just in the UK, although there is an urgent need to fix our broken UK system.
+It would be nice to fix democracy across the planet not just in the UK, although there is an urgent need to fix our achaic UK system.
 
 
 
