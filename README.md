@@ -13,7 +13,7 @@ The aim is to build a system which enables the electorate to democratically sugg
 The system must help mitigate against the primary problem with our current democratic systems, namely:
 
 1) Weaknesses in human thought patterns, leading to logic errors and known cognitive biases.
-2) Un-democratic manipulation by those with power through money and marketing (generally spinning half-truths which manipulate the above).
+2) Un-democratic manipulation by those with power through money and marketing (generally spinning emotion based half-truths which manipulate the above).
 
 A suggested initial approach which may eveolve.
 
