@@ -15,7 +15,7 @@ The system must help mitigate against the primary problem with our current democ
 1) Weaknesses in human thought patterns, leading to logic errors and known cognitive biases.
 2) Un-democratic manipulation by those with power through money and marketing (generally spinning emotion based half-truths which manipulate the above).
 
-A suggested initial approach which may eveolve.
+A suggested initial approach which may evolve.
 
 For 1) subject ideas to scientific review, to ensure they are founded on evidence not spin.
 
